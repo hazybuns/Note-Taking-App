@@ -1,2 +1,2 @@
 # Note-Taking-Application
-For educational purposes only
+For educational purposes only.
