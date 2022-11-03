@@ -1,2 +1,2 @@
 # Note-Taking-Application
-For educational purposes only.
+Group 1 - Note-Taking App
